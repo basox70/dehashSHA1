@@ -26,93 +26,12 @@ namespace ConsoleApplication5
 			string texte = "";
 			string hash = "";
 
-			foreach (string a in dico)
-			{
-				foreach (string b in dico)
-				{
-					foreach (string c in dico)
-					{
-						foreach (string d in dico)
-						{
-							foreach (string e in dico)
-							{
-								foreach (string f in dico)
-								{
-									foreach (string g in dico)
-									{
-										foreach (string h in dico)
-										{
-											foreach (string i in dico)
-											{
-												foreach (string j in dico)
-												{
-													foreach (string k in dico)
-													{
-														foreach (string l in dico)
-														{
-															texte = a + b + c + d + e + f + g + h + i + j + k + l;
-															hash = Hash(texte);
-															if (hash == text)
-															{
-																break;
-															}
-														}
-														if (hash == text)
-														{
-															break;
-														}
-													}
-													if (hash == text)
-													{
-														break;
-													}
-												}
-												if (hash == text)
-												{
-													break;
-												}
-											}
-											if (hash == text)
-											{
-												break;
-											}
-										}
-										if (hash == text)
-										{
-											break;
-										}
-									}
-									if (hash == text)
-									{
-										break;
-									}
-								}
-								if (hash == text)
-								{
-									break;
-								}
-							}
-							if (hash == text)
-							{
-								break;
-							}
-						}
-						if (hash == text)
-						{
-							break;
-						}
-					}
-					if (hash == text)
-					{
-						break;
-					}
-				}
-				if (hash == text)
-				{
-					break;
-				}
-			}
-			return texte;
+            foreach (string a in dico)
+            {
+                Console.Write(a);
+            }
+			
+            return null;
 		}
 
 		static string Hash(string input)

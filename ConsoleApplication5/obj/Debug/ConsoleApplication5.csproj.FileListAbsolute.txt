@@ -4,3 +4,9 @@ c:\users\basile\documents\visual studio 2012\Projects\ConsoleApplication5\Consol
 c:\users\basile\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
 c:\users\basile\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
 c:\users\basile\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Basile\Documents\GitHub\dehashSHA1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Basile\Documents\GitHub\dehashSHA1\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Basile\Documents\GitHub\dehashSHA1\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Basile\Documents\GitHub\dehashSHA1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Basile\Documents\GitHub\dehashSHA1\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Basile\Documents\GitHub\dehashSHA1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
