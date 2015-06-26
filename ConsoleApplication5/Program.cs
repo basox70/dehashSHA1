@@ -11,11 +11,11 @@ namespace ConsoleApplication5
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("phrase a decoder:");
-			string test = Console.ReadLine();
-			string hash = Dehash(test);
-			Console.WriteLine("phrase decodee:");
-			Console.WriteLine(hash);
+			//Console.WriteLine("phrase a decoder:");
+			//string test = Console.ReadLine();
+			string hash = Dehash("");
+			//Console.WriteLine("phrase decodee:");
+			//Console.WriteLine(hash);
 
 			Console.ReadKey();
 		}
